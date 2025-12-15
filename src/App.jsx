@@ -32,7 +32,7 @@ function App() {
 
   return (
     <>
-     <h1>Counter Project</h1>
+     <h1>Counter Project 1</h1>
      <h2>Counter value:{counter}</h2>
      <button onClick={addval}>add value </button>
      <br />
